@@ -9,4 +9,4 @@ Use
 <br>
 <code>Linux: pip3 install senMail</code>
 <br>
-<code>Windows :pip install senMail</code>
+<code>Windows: pip install senMail</code>
