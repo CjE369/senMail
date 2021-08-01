@@ -1,1 +1,0 @@
-from sendMail import sendVeriyAutoMail, sendManualMailHTML, sendManualMailText, sendGridMail,mailWithAttachTEXT, yagaMailWithAttach, yagaMail
