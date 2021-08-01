@@ -6,6 +6,7 @@ Easy Mail sender for python also <bold>you can intigrate with services like send
 
 
 Use
+<br>
 <code>Linux: pip3 install senMail</code>
 <br>
 <code>Windows :pip install senMail</code>
